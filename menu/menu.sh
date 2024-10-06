@@ -1,6 +1,6 @@
 # Decrypted by K-fuscator
 # Github- https://github.com/KasRoudra/k-fuscator
-UPDATE="https://raw.githubusercontent.com/myridwan/scxray/ipuk/"
+UPDATE="https://raw.githubusercontent.com/titis69/sc2024/main/"
 NC='\e[0m'
 DEFBOLD='\e[39;1m'
 RB='\e[31;1m'
